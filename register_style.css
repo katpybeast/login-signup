@@ -1,0 +1,17 @@
+form{
+  text-align: center;
+}
+.wrapper{
+  position: relative;
+  margin-right: auto;
+  margin-left: auto;
+  top: 7%;
+  width: 35%;
+  border-radius: 7px;
+  padding: 5px;
+}
+.login_header{
+  text-align: center;
+  width: 100%;
+  color: black;
+}
